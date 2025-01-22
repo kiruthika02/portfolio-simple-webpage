@@ -2,7 +2,6 @@
 
 This repository contains the source code for my personal portfolio website, developed using HTML and CSS. The website consists of two main pages: Home and Contact.
 
-## Features
 ## Home Page:
 
 An introduction section with a brief overview of my background, skills, and key highlights.
